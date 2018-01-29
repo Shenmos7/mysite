@@ -4,7 +4,7 @@ layout: default
 
 ![avatar](avatar.jpg)
 
-# Kirby
+# 棽墨
 
 A Nintendo Character
 
@@ -12,12 +12,13 @@ A Nintendo Character
 
 ### about
 
-Kirby (カービィ Kābī?) is a fictional character and the titular protagonist of the Kirby series of video games owned by Nintendo and HAL Laboratory. As one of Nintendo's most famous and familiar icons, Kirby's round appearance and ability to copy his foes' powers has made him a well known figure in video games, consistently ranked as one of the most iconic video game characters. 
+emmm，欢迎大家收看啦，如果觉得好玩的话，或者你也想做一个简简单单的展示的话，再或者只是想单纯聊天的话，都可以直接找本人OK的。
 
-### Links
 
- * [11 amazing Kirby facts and secrets](http://www.officialnintendomagazine.co.uk/41729/11-amazing-kirby-facts-and-secrets/)
- * [How did your favourite Nintendo characters get their names?](http://www.officialnintendomagazine.co.uk/42153/how-did-mario-get-his-name-and-the-origins-of-your-favourite-nintendo-stars/?page=6)
- * [Why is Kirby always angry in the US? Nintendo explains](http://www.gamespot.com/articles/why-is-kirby-always-angry-in-the-us-nintendo-explains/1100-6419263/)
+### 说明
 
+这个界面虽然不可以实现一些复杂的交互功能，但是也可以做一些简单的宣传，放一些文字，或者图片，或者链接都可以的，也可以理解为一张网上明信片，甚至可以当做一个自己的个人网站，用途多多,下面是一个小链接，自己刚刚申请的免费空间，并上传了经典的坦克大战源代码，切实可以玩的哦    ps：您得打开电脑先
+
+### link
 - - -
+*
